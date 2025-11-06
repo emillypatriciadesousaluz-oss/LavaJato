@@ -31,8 +31,9 @@ java -cp .:model:service:main Main
 - **Composição:** `Atendimento` contém `Cliente`, `Veiculo`, `Servico` e `Funcionario`
 
 ## Equipe
-- Emilly Luz
-- Gabriel Angelo
-- Isabela Lanteuil
-- Lucas Alecrim
-- Maria Mariana
+- Emilly Patricia de Sousa Luz
+- Gabriel Angelo de Lima Dias
+- Isabela Lanteuil de Miranda Santiago
+- Lucas Cardoso de Alecrim
+- Maria Mariana Laurentino Duda
+- Gustavo Henrique Vasconcelos Alves de Queiroz
